@@ -1,0 +1,6 @@
+{
+  "name": "Pharma Care",
+  "description": "Medical Store management system to track stock, buy/sell prices, MRP, and expire alerts, built by Prabhat Singh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
